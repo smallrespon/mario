@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/beginpicture">
+        <file>beginpicture/firststageend.jpg</file>
+    </qresource>
+</RCC>
